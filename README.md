@@ -3,7 +3,7 @@
 #### You can also find me on:
 
 <a href="https://www.linkedin.com/in/apurba-prasad-padhy-7931ab179/">
-  <img align="left" alt="Apurba's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Apurba's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /><br>
   
 
 <!--
@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
+  
 &nbsp;	&nbsp;	&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apurba-pp) 	&nbsp;	&nbsp;	&nbsp;![Apurba's github stats](https://github-readme-stats.vercel.app/api?username=apurba-pp&count_private=true&show_icons=true&theme=radical&hide_rank=false)
