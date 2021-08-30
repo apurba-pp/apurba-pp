@@ -1,8 +1,10 @@
 <h1 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Apurba Prasad Padhy here.</h1>
 
+#### You can also find me on:
 
-📫 How to find me: 
-  :office: [LinkedIn](https://www.linkedin.com/in/apurba-prasad-padhy-7931ab179/)
+<a href="https://www.linkedin.com/in/apurba-prasad-padhy-7931ab179/">
+  <img align="left" alt="Apurba's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  
 
 <!--
 **apurba-pp/apurba-pp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
