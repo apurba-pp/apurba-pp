@@ -1,4 +1,5 @@
-<h1 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Apurba Prasad Padhy here.</h1>
+<h1 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Apurba Prasad Padhy here</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=apurba-pp&color=red&style=plastic" alt="apurba-pp" /> </p>
 
 #### You can also find me on:
 
@@ -27,4 +28,4 @@ Here are some ideas to get you started:
   
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apurba-pp) 	&nbsp;	&nbsp;	&nbsp;![Apurba's github stats](https://github-readme-stats.vercel.app/api?username=apurba-pp&count_private=true&show_icons=true&theme=radical&hide_rank=false)
   
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=apurba-pp" alt="apurba-pp" /> </p>
+
