@@ -3,7 +3,7 @@
 #### You can also find me on:
 
 <a href="https://www.linkedin.com/in/apurba-prasad-padhy-7931ab179/">
-  <img align="left" alt="Apurba's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />  
+  <img align="left" alt="Apurba's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /><br><br> 
 <!--<a href="https://www.facebook.com/profile.php?id=100007547325665">
   <img align="left" alt="Apurba's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" /><br><br>-->
 
@@ -26,3 +26,5 @@ Here are some ideas to get you started:
   
   
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apurba-pp) 	&nbsp;	&nbsp;	&nbsp;![Apurba's github stats](https://github-readme-stats.vercel.app/api?username=apurba-pp&count_private=true&show_icons=true&theme=radical&hide_rank=false)
+  
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=apurba-pp" alt="apurba-pp" /> </p>
